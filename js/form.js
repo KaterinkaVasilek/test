@@ -52,5 +52,3 @@ formButton.addEventListener('click', (event) => {
   event.preventDefault();
 });
 
-
-
